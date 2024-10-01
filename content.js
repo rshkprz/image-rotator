@@ -10,8 +10,7 @@ document.addEventListener('rotate-image', (event) => {
     rotationAngle += 90;
   }
 
-  images.foreach((image) => {
+  images.forEach((image) => {
     image.style.transform = `rotate(${rotationAngle}deg)`;
   });
-  
 });
