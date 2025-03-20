@@ -2,4 +2,4 @@
 
 `Demo Video:`
 
-https://user-images.githubusercontent.com/rshkprz/image-rotator/master/video.mp4
+https://user-images.githubusercontent.com/rshkprz/image-rotator/main/video.mp4
