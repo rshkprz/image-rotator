@@ -2,4 +2,4 @@
 
 `Demo Video:`
 
-https://user-images.githubusercontent.com/rshkprz/image-rotator/main/video.mp4
+https://github.com/user-attachments/assets/b1574beb-81ae-4ca4-918c-7b6568def958
