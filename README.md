@@ -1,2 +1,2 @@
-#Facebook Image Rotator Chrome Extension
+# Facebook Image Rotator Chrome Extension
 [Demo Video](video.mp4)
